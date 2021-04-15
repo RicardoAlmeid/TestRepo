@@ -1,0 +1,8 @@
+C:\Users\ricardoalmei\Documents\Projetos\OtherProjects\Alura.WebAPI\Alura.WebAPI.Seguranca\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.deps.json
+C:\Users\ricardoalmei\Documents\Projetos\OtherProjects\Alura.WebAPI\Alura.WebAPI.Seguranca\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
+C:\Users\ricardoalmei\Documents\Projetos\OtherProjects\Alura.WebAPI\Alura.WebAPI.Seguranca\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
+C:\Users\ricardoalmei\Documents\Projetos\OtherProjects\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.csprojAssemblyReference.cache
+C:\Users\ricardoalmei\Documents\Projetos\OtherProjects\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.AssemblyInfoInputs.cache
+C:\Users\ricardoalmei\Documents\Projetos\OtherProjects\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.AssemblyInfo.cs
+C:\Users\ricardoalmei\Documents\Projetos\OtherProjects\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
+C:\Users\ricardoalmei\Documents\Projetos\OtherProjects\Alura.WebAPI\Alura.WebAPI.Seguranca\obj\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
