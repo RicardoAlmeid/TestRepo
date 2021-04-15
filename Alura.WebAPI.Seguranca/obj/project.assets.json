@@ -5481,19 +5481,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ricardoalmei\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ricardoalmei\\Documents\\Projetos\\OtherProjects\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj",
+      "projectUniqueName": "E:\\Projects\\TestRepo\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj",
       "projectName": "Alura.WebAPI.Seguranca",
-      "projectPath": "C:\\Users\\ricardoalmei\\Documents\\Projetos\\OtherProjects\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj",
-      "packagesPath": "C:\\Users\\ricardoalmei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ricardoalmei\\Documents\\Projetos\\OtherProjects\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\obj\\",
+      "projectPath": "E:\\Projects\\TestRepo\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "E:\\Projects\\TestRepo\\Alura.WebAPI.Seguranca\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ricardoalmei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5505,6 +5505,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "projectReferences": {}
         }
       },
@@ -5516,6 +5517,7 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
+        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "Microsoft.IdentityModel.Tokens": {
             "target": "Package",
@@ -5538,7 +5540,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.113\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -12716,19 +12716,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ricardoalmei\\.nuget\\packages\\": {}
+    "C:\\Users\\PC\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ricardoalmei\\Documents\\Projetos\\OtherProjects\\Alura.WebAPI\\Alura.WebAPI.WebApp\\Alura.WebAPI.WebApp.csproj",
+      "projectUniqueName": "E:\\Projects\\TestRepo\\Alura.WebAPI.WebApp\\Alura.WebAPI.WebApp.csproj",
       "projectName": "Alura.WebAPI.WebApp",
-      "projectPath": "C:\\Users\\ricardoalmei\\Documents\\Projetos\\OtherProjects\\Alura.WebAPI\\Alura.WebAPI.WebApp\\Alura.WebAPI.WebApp.csproj",
-      "packagesPath": "C:\\Users\\ricardoalmei\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ricardoalmei\\Documents\\Projetos\\OtherProjects\\Alura.WebAPI\\Alura.WebAPI.WebApp\\obj\\",
+      "projectPath": "E:\\Projects\\TestRepo\\Alura.WebAPI.WebApp\\Alura.WebAPI.WebApp.csproj",
+      "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+      "outputPath": "E:\\Projects\\TestRepo\\Alura.WebAPI.WebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ricardoalmei\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12740,18 +12740,19 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "projectReferences": {
-            "C:\\Users\\ricardoalmei\\Documents\\Projetos\\OtherProjects\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj": {
-              "projectPath": "C:\\Users\\ricardoalmei\\Documents\\Projetos\\OtherProjects\\Alura.WebAPI\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj"
+            "E:\\Projects\\TestRepo\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj": {
+              "projectPath": "E:\\Projects\\TestRepo\\Alura.WebAPI.DAL.Livros\\Alura.WebAPI.DAL.Livros.csproj"
             },
-            "C:\\Users\\ricardoalmei\\Documents\\Projetos\\OtherProjects\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj": {
-              "projectPath": "C:\\Users\\ricardoalmei\\Documents\\Projetos\\OtherProjects\\Alura.WebAPI\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj"
+            "E:\\Projects\\TestRepo\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj": {
+              "projectPath": "E:\\Projects\\TestRepo\\Alura.WebAPI.DAL.Usuarios\\Alura.WebAPI.DAL.Usuarios.csproj"
             },
-            "C:\\Users\\ricardoalmei\\Documents\\Projetos\\OtherProjects\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj": {
-              "projectPath": "C:\\Users\\ricardoalmei\\Documents\\Projetos\\OtherProjects\\Alura.WebAPI\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj"
+            "E:\\Projects\\TestRepo\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj": {
+              "projectPath": "E:\\Projects\\TestRepo\\Alura.WebAPI.Model\\Alura.WebAPI.Model.csproj"
             },
-            "C:\\Users\\ricardoalmei\\Documents\\Projetos\\OtherProjects\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj": {
-              "projectPath": "C:\\Users\\ricardoalmei\\Documents\\Projetos\\OtherProjects\\Alura.WebAPI\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj"
+            "E:\\Projects\\TestRepo\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj": {
+              "projectPath": "E:\\Projects\\TestRepo\\Alura.WebAPI.Seguranca\\Alura.WebAPI.Seguranca.csproj"
             }
           }
         }
@@ -12764,6 +12765,7 @@
     },
     "frameworks": {
       "netcoreapp2.1": {
+        "targetAlias": "netcoreapp2.1",
         "dependencies": {
           "Microsoft.AspNetCore.App": {
             "target": "Package",
@@ -12790,7 +12792,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.113\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

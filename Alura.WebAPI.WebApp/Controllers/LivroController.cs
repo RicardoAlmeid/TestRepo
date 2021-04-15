@@ -101,5 +101,7 @@ namespace Alura.ListaLeitura.WebApp.Controllers
             _repo.Excluir(model);
             return RedirectToAction("Index", "Home");
         }
+
+
     }
 }
