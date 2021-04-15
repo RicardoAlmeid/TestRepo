@@ -8,7 +8,9 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Alura.WebAPI.WebApp.API
 {
-    public class LivrosController: Controller
+    [ApiController]
+    [Route("[controller]")]
+    public class LivrosController: ControllerBase
     {
         private readonly IRepository<Livro> _repo;
 
@@ -16,7 +18,7 @@ namespace Alura.WebAPI.WebApp.API
         {
             _repo = repository;
         }
-        [HttpGet]
+        [HttpGet("{id}")]
         public IActionResult Recuperar(int id)
         {
             var model = _repo.Find(id);
@@ -25,7 +27,7 @@ namespace Alura.WebAPI.WebApp.API
                 return NotFound();
             }
 
-            return Json(model.ToModel());
+            return Ok(model.ToModel());
         }
         
         [HttpPost]
@@ -41,7 +43,7 @@ namespace Alura.WebAPI.WebApp.API
             return BadRequest();
 
         }
-        [HttpPost]
+        [HttpDelete("{id}")]
         public IActionResult Deletar(int id)
         {
             var livro = _repo.Find(id);
@@ -52,7 +54,7 @@ namespace Alura.WebAPI.WebApp.API
             _repo.Excluir(livro);
             return NoContent();
         }
-        [HttpPost]
+        [HttpPut]
         public IActionResult Alterar([FromBody]LivroUpload model)
         {
             if (ModelState.IsValid)
